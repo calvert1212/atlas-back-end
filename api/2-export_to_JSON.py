@@ -36,5 +36,6 @@ def get_json():
     with open("{}.json".format(id), "w") as file:
         json.dump(json_dict, file)
 
+
 if __name__ == '__main__':
     get_json()
