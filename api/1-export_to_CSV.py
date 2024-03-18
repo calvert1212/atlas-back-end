@@ -29,5 +29,6 @@ def get_csv():
             writer.writerow([int(id), user.get("username"),
                             task.get("completed"), task.get("title")])
 
+
 if __name__ == '__main__':
     get_csv()
