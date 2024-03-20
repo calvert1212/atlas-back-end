@@ -154,6 +154,9 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Jesse Brumley [GitHub] (https://github.com/jessebrumley) / [email] (jesse.brumley@atlasschool.com)
+Chad Calvert [GitHub] (https://github.com/calvert1212) / [email] (chad.calvert@atlasschool.com)
+
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
